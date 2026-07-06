@@ -8,7 +8,8 @@ land-grant institutions on enrollment, retention, and graduation outcomes.
 ## Live Dashboard
 
 View the published dashboards on Tableau Public:
-[Institutional Analytics: Enrollment & Student Outcomes](https://public.tableau.com/app/profile/hashika.venkatramanan7332/viz/InstitutionalAnalytics/InstitutionalAnalyticsEnrollmentStudentOutcomesO)
+[Institutional Analytics: Enrollment & Student Outcomes][Institutional Analytics: Enrollment & Student Outcomes]( https://public.tableau.com/app/profile/hashika.venkatramanan7332/viz/InstitutionalAnalytics/InstitutionalAnalyticsEnrollmentStudentOutcomesOSUPeerBenchmarking2018-2023 )
+
 
 ## Project Overview
 
